@@ -1,5 +1,8 @@
 # Sprimpt
 
+Introducing Sprimpt
+![image](https://cdn.discordapp.com/attachments/819614218458234951/926129610276618310/MainIMG.png)
+
 What Is Sprimpt?:
 --------------------------------
 Sprimt is An IDE (Integrated Development Enviroment) For Web Developers. Basicaly It Has Built In functions For "html, css and javascript"
