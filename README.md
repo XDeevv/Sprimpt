@@ -17,7 +17,7 @@ Sprimpt Is Open Source!
 You Can Download The Source Code But First You Need To Agree Tou Our Terms.
 
 - License: https://SprimptApp.netlify.app/license/v1.0.txt/
-- Link: https://www.mediafire.com/file/e00fzko192lri2x/Sprimpt_SourceCode_Original_v1.0.zip/file
+- Link: https://sprimptapp.netlify.app/developer
 
 Versions:
 --------------------------------
